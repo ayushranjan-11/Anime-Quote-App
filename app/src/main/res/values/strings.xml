@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Anime Quotes</string>
+    <string name="anime_title">anime_Title</string>
+    <string name="character_name">character_name</string>
+    <string name="character_quote">character_quote</string>
+    <string name="button_text">another one!</string>
+</resources>
