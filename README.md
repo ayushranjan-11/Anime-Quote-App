@@ -4,7 +4,7 @@ Random quotes from ***popular anime series***
 
 [Api infromation](https://animechan.vercel.app)
 
-provided by [Rocktim](rocktimcodes.site)
+provided by [Rocktim](https://github.com/rocktimsaikia)
 
 ## Snapshots
 
