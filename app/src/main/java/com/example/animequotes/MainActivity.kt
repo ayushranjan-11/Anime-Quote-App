@@ -71,4 +71,9 @@ class MainActivity : AppCompatActivity() {
     fun anotherRequest(view: View) {
         jsonApiRequest()
     }
+
+    override fun onBackPressed() {
+        super.onBackPressed()
+        finish()
+    }
 }
