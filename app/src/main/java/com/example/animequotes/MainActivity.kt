@@ -17,8 +17,6 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        //for splash screen
-        setTheme(R.style.Theme_AnimeQuotes)
         setContentView(R.layout.activity_main)
 
         jsonApiRequest()

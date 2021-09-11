@@ -21,5 +21,12 @@
         <item name="android:windowBackground">@drawable/splash_image</item>
         <item name="android:statusBarColor">#43504E</item>
     </style>
+    
+    <style name="FullScreen" parent="Theme.AnimeQuotes">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
 
 </resources>
